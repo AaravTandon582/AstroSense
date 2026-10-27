@@ -1,0 +1,35 @@
+{
+  "artifacts_sha256": {
+    "H_only_model.json": "e7de67700f719d40f30a05a095d8024fe6b870ed83ad9dfe488414e72abf1dec",
+    "RESULTS.md": "66128360b4b413b0ec4af1c699706af4e39cd1abe07353361bf5784bcc7cc749",
+    "audit.json": "01f37d50ef4947a3b26b59b6cf2ba806d417a1d6e44476ded0d58b7484e4b603",
+    "class_distribution.csv": "762761046dac93de8e601a9904edb0f7e151eb8dde595ec84df5203be9322045",
+    "error_examples.csv": "be810c2741954c164b0d1958e8f631489cde0f13617f526830af87ecf455c798",
+    "example_input.csv": "ab6a97471488ffab87fdaa97ebb067f0aef7b2b06662a85a6f9bbabf15cb7874",
+    "excluded.csv": "94113ee1a3ec9aa370948c0da472c6350378c28ed103fde06125e2f344c75629",
+    "features.csv": "bbf03939ca025b61f2c89c53b212c638665d2b665f6782f4daa0c7ada5bcb2ed",
+    "metrics.json": "382699e53e7f48a835244c502fb63062cd39d451ed254d035b48a17b756a992c",
+    "model.json": "8a70c7e0e58aa271a88717ecedc80897dcb770fbfb74b079fb628eae310ccedc",
+    "orbit_class_metrics.csv": "ef06e3509b4c72c9e4b3615cf1ca08dd0403abe9f82db3e7fbd4c7b2d2bd586b",
+    "predictions.csv": "06b4e9eeb2067078e1722b559d65e022588035549d6de0b0e8ea3da2499cabed",
+    "source_manifest.json": "590013f256b528645f7673d7169b4f59f9f1f1cde992bf0737fbce8bdb01ef92",
+    "split_manifest.csv": "51ae19cfe4205a3d18694ff972df8efb38011a014a238814afbe570dc16bcb6b"
+  },
+  "packages": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scikit-learn": "1.9.1",
+    "scipy": "1.18.1",
+    "threadpoolctl": "3.7.0"
+  },
+  "platform": "macOS-26.5.2-arm64-arm-64bit-Mach-O",
+  "python": "3.13.1 (v3.13.1:06714517797, Dec  3 2024, 14:00:22) [Clang 15.0.0 (clang-1500.3.9.4)]",
+  "requirements_lock_sha256": "b3fd157a59f183c77210c82ef9283f450f15bd9329562f819c217fababba59ec",
+  "source_sha256": {
+    "__init__.py": "e6a1c3b3bcb0ab58d9d64c555dc17ef5e498ac48bf93b9f87896553021e8f3aa",
+    "__main__.py": "7f7eef72053585f6665c9db917eb84d094259c0bb363c5006f85ef0904851fbd",
+    "data.py": "cc6ff9971fdefd7942d01387a3c59f0dde4988e36b5eccfaf140140c0f62f8e8",
+    "model.py": "fb142a680d3e792a8df8be780c472cf030e4e934aac3d725b219645ce1e9b14e",
+    "reporting.py": "71fe5b362e3074ce78c5b8da6664de68dafeb591b8703905841792f29ef84330"
+  }
+}
